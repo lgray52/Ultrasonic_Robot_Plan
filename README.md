@@ -8,6 +8,7 @@ This robot adresses social distancing measures with COVID-19. The preliminary id
 
 ### Schedule
 Basic timeline:
+
 Design:
 * Preliminary design (like sketches and such): one week
   * Code (Lucy): four weeks
