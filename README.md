@@ -12,16 +12,19 @@ This robot adresses social distancing measures with COVID-19. The preliminary id
 *Basic timeline:*
 
 Design:
-* Preliminary design (like sketches and such): one week
-* Code (Lucy): four weeks
-* OnShape (Josie): four weeks
+* Preliminary design (like sketches and such): one week (Jan 22)
+* Code (Lucy): four weeks (Feb 19)
+* OnShape (Josie): four weeks (Feb 19)
 
 Meet dates:
 * In person: Tuesday
 * Via zoom: BKT
 
 Assembly: 
-* Wiring: one week
-* Assembly of actual thing: four weeks
+* Wiring: one week (Feb 26)
+* Assembly of actual thing: four weeks (Mar 19)
 
 [Link to preplanning doc](https://docs.google.com/document/d/1EUVMNag3KWIHk-9UFC24PIQXCwUg9NNP5cyAnD_6Xhc/edit?usp=sharing)
+
+### Original Ideas
+<img src="images/disco_bot.png" alt="disco bot - Josie" height="300"> <img src="images/distancing.png" alt="distancing bot - Lucy" height="300">
