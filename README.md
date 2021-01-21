@@ -23,3 +23,5 @@ Meet dates:
 Assembly: 
 * Wiring: one week
 * Assembly of actual thing: four weeks
+
+[Link to preplanning doc](https://docs.google.com/document/d/1EUVMNag3KWIHk-9UFC24PIQXCwUg9NNP5cyAnD_6Xhc/edit?usp=sharing)
