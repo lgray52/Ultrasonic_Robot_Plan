@@ -28,3 +28,6 @@ Assembly:
 
 ### Original Ideas
 <img src="images/disco_bot.png" alt="disco bot - Josie" height="300"> <img src="images/distancing.png" alt="distancing bot - Lucy" height="300">
+
+### Final Sketch
+<img src="images/final_sketch.jpg" alt="final sketch of robot design" height="300">
