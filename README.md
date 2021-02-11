@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Planning](#Planning)
+* [Changes/Evolution](#Changes/Evolution)
 
 
 ## Planning
@@ -31,3 +32,7 @@ Assembly:
 
 ### Final Sketch
 <img src="images/final_sketch.jpg" alt="final sketch of robot design" height="300">
+
+## Changes/Evolution
+
+### Model OnShape
