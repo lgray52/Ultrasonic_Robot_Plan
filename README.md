@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Planning](#Planning)
-* [Changes/Evolution](#Changes/Evolution)
+* [Changes/Evolution](#Evolution)
 
 
 ## Planning
@@ -33,7 +33,7 @@ Assembly:
 ### Final Sketch
 <img src="images/final_sketch.jpg" alt="final sketch of robot design" height="300">
 
-## Changes/Evolution
+## Evolution
 
 ### Model OnShape
 <img src="images/onshape_rough_draft.png" alt="OnShape model" height="300">
@@ -46,5 +46,6 @@ Assembly:
 * *Anything I missed?*
 
 ### Important Links
-[OnShape](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
-[Code](https://create.arduino.cc/editor/lgray52/ab9d6be7-250d-41d2-9c5f-ef9b109d3b19/preview)
+[OnShape Link](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
+
+[Code Link](https://create.arduino.cc/editor/lgray52/ab9d6be7-250d-41d2-9c5f-ef9b109d3b19/preview)
