@@ -36,3 +36,15 @@ Assembly:
 ## Changes/Evolution
 
 ### Model OnShape
+<img src="images/onshape_rough_draft.png" alt="OnShape model" height="300">
+
+### Changes to basic plan/decisions
+* Use a LiDAR sensor for distance sensor
+* MP3/audio player of some kind for sound effects
+* Box should have a handle
+* Disco balls for disco mode
+* *Anything I missed?*
+
+### Important Links
+[OnShape](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
+[Code](https://create.arduino.cc/editor/lgray52/ab9d6be7-250d-41d2-9c5f-ef9b109d3b19/preview)
