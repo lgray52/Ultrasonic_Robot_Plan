@@ -14,15 +14,15 @@ This robot adresses social distancing measures with COVID-19. The preliminary id
 
 Design:
 * Preliminary design (like sketches and such): one week (Jan 22)
-* Code (Lucy): four weeks (Feb 19)
-* OnShape (Josie): four weeks (Feb 19)
+* Code (Lucy): four weeks (Feb 26)
+* OnShape (Josie): four weeks (Feb 26)
 
 Meet dates:
 * In person: Tuesday
 * Via zoom: BKT
 
 Assembly: 
-* Wiring: one week (Feb 26)
+* Wiring: one week (Mar 5)
 * Assembly of actual thing: four weeks (Mar 19)
 
 [Link to preplanning doc](https://docs.google.com/document/d/1EUVMNag3KWIHk-9UFC24PIQXCwUg9NNP5cyAnD_6Xhc/edit?usp=sharing)
