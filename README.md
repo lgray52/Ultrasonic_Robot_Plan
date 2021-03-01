@@ -15,7 +15,7 @@ This robot adresses social distancing measures with COVID-19. The preliminary id
 Design:
 * Preliminary design (like sketches and such): one week (Jan 22)
 * Code (Lucy): four weeks (Feb 26)
-* OnShape (Josie): four weeks (Feb 26)
+* OnShape (Josie): four weeks (Feb 5)
 
 Meet dates:
 * In person: Tuesday
