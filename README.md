@@ -51,6 +51,17 @@ Assembly:
 
 [Code Link](https://create.arduino.cc/editor/lgray52/a9aee612-c134-4c91-b782-97e3e1e5a97a/preview)
 
+### Materials List
+
+Wiring
+* Wires (many)
+* Arduino Uno (x1)
+* LED (x1)
+* Ultrasonic sensor - Maxbotix Ultrasonic Rangefinder - LV-EZ1 - LV-EZ1 (x1)
+* Continuous rotation micro servo (x2)
+* Panelmount switches (x2)
+* Sound effects board - Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger - 2MB Flash
+
 ## Reflection
 
 ### Week of 2/22 - 2/28
