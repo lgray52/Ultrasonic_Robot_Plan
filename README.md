@@ -51,6 +51,8 @@ Assembly:
 
 [Code Link](https://create.arduino.cc/editor/lgray52/a9aee612-c134-4c91-b782-97e3e1e5a97a/preview)
 
+[Tester Code for Soundboard](https://create.arduino.cc/editor/lgray52/20462b0a-9ad4-4600-aebd-f23606fc5c0d/preview)
+
 ### Materials List
 
 Wiring
