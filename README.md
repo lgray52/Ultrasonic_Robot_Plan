@@ -44,7 +44,6 @@ Assembly:
 * MP3/audio player of some kind for sound effects
 * Box should have a handle
 * Disco balls for disco mode
-* *Anything I missed?*
 
 ### Important Links
 [OnShape Link](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
@@ -60,7 +59,7 @@ Wiring
 * Arduino Uno (x1)
 * LED (x1)
 * Ultrasonic sensor - Maxbotix Ultrasonic Rangefinder - LV-EZ1 - LV-EZ1 (x1)
-* Continuous rotation micro servo (x2)
+* Continuous rotation micro servo (x1)
 * Panelmount switches (x2)
 * Sound effects board - Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger - 2MB Flash
 
