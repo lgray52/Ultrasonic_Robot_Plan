@@ -72,3 +72,10 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 
 ## Final
 
+### Pictures
+<img src="images/final_ultra_1.png" alt="Final OnShape model (first angle)" height="300"> <img src="images/final_ultra_2.png" alt="Final OnShape model (second angle)" height="300">
+↓ fred ↓
+<img src="images/fred!.png" alt="a friendly boi :)" height="100">
+
+### Code
+*Eventually....*
