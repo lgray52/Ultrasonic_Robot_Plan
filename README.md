@@ -4,6 +4,7 @@
 * [Planning](#Planning)
 * [Evolution](#Evolution)
 * [Reflection](#Reflection)
+* [Final](#Final)
 
 
 ## Planning
@@ -68,3 +69,6 @@ Wiring
 ### Week of 2/22 - 2/28
 
 For the Onshape, we managed to create a handle, as well as add holes for the arduino. This process showed me how to better construct objects made out of multiple cylinders, as well as how to add screw holes of the right size and placement more easily. For the coding, we were able to choose the sensor that we will be using, which allowed us to begin to work on coding the senser. We met all the goals that we set for ourselves this week, and we are on track to finish the project by the scheduled date! :D
+
+## Final
+
