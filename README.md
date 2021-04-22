@@ -43,10 +43,10 @@ Assembly:
 <img src="images/onshape_rough_draft.png" alt="OnShape model" height="300">
 
 ### Changes to basic plan/decisions
-* Use a LiDAR sensor for distance sensor
+* Use a LiDAR or similar sensor for distance sensor
 * MP3/audio player of some kind for sound effects
 * Box should have a handle
-* Disco balls for disco mode
+* Disco balls (for disco mode)
 
 ### Important Links
 [OnShape Link](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
