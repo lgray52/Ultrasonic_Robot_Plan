@@ -73,11 +73,17 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 ## Final
 
 ### Pictures
+
+## Final Assembly
 <img src="images/final_ultra_1.PNG" alt="Final OnShape model (first angle)" height="300"> <img src="images/final_ultra_2.PNG" alt="Final OnShape model (second angle)" height="300">
 
 ↓ fred ↓
 
 <img src="images/fred!.PNG" alt="a friendly boi :)" height="100">
 
+## Wiring diagram:
+<img src="images/ultrasonic_robot_wiring.png" alt="wiring diagram" height="300">
+
+
 ### Code
-*Eventually....*
+[Final code link](https://create.arduino.cc/editor/lgray52/f984fcf0-1da7-4659-8f5d-0acd6cc6e52a/preview)
