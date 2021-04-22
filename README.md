@@ -27,6 +27,8 @@ Assembly:
 * Wiring: one week (Mar 22)
 * Assembly of actual thing: two weeks (Apr 4)
 
+*Note: because of virtual school, we miscalculated how long this project would take. We are set to finish around the beginning of May.
+
 [Link to preplanning doc](https://docs.google.com/document/d/1EUVMNag3KWIHk-9UFC24PIQXCwUg9NNP5cyAnD_6Xhc/edit?usp=sharing)
 
 ### Original Ideas
