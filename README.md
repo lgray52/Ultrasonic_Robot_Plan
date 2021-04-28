@@ -84,7 +84,7 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 <img src="images/fred!.PNG" alt="a friendly boi :)" height="100">
 
 ### Wiring diagram
-<img src="images/ultrasonic_robot_wiring_final.png" alt="wiring diagram" height="300">
+<img src="images/ultrasonic_robot_wiring.png" alt="wiring diagram" height="300">
 
 
 ### Code
