@@ -91,4 +91,4 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 [Final code link](https://create.arduino.cc/editor/lgray52/f984fcf0-1da7-4659-8f5d-0acd6cc6e52a/preview)
 
 ### Final Pictures of Box
-<img src="images/final_1.png" alt="box" height="300"> <img src="images/final_2.png" alt="box" height="300"> <img src="images/final_3.png" alt="box" height="300"> <img src="images/final_4.png" alt="box" height="300"> 
+<img src="images/final_1.jpg" alt="box" height="300"> <img src="images/final_2.jpg" alt="box" height="300"> <img src="images/final_3.jpg" alt="box" height="300"> <img src="images/final_4.jpg" alt="box" height="300"> 
