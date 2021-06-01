@@ -27,7 +27,7 @@ Assembly:
 * Wiring: one week (Mar 22)
 * Assembly of actual thing: two weeks (Apr 4)
 
-*Note: because of virtual school, we miscalculated how long this project would take. We are set to finish around the beginning of May.
+*Note: because of virtual school, we miscalculated how long this project would take. We are set to finish around May.
 
 [Link to preplanning doc](https://docs.google.com/document/d/1EUVMNag3KWIHk-9UFC24PIQXCwUg9NNP5cyAnD_6Xhc/edit?usp=sharing)
 
@@ -43,10 +43,10 @@ Assembly:
 <img src="images/onshape_rough_draft.png" alt="OnShape model" height="300">
 
 ### Changes to basic plan/decisions
-* Use a LiDAR or similar sensor for distance sensor
-* MP3/audio player of some kind for sound effects
+* Use a LiDAR or similar sensor for distance sensor - we settled on the Maxbotix Ultrasonic Rangefinder - LV-EZ1 
+* MP3/audio player of some kind for sound effects - we settled on Adafruit Audio FX Mini Sound Board
 * Box should have a handle
-* Disco balls (for disco mode)
+* Differentiation in light blinking (for disco mode)
 
 ### Important Links
 [OnShape Link](https://cvilleschools.onshape.com/documents/e41aa58825c3f69075703e43/w/6eded204a6c70e88d15d84a6/e/10f33f92dbe2226878aa933b)
@@ -92,3 +92,6 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 
 ### Final Pictures of Box
 <img src="images/final_1.jpg" alt="box" height="300"> <img src="images/final_2.jpg" alt="box" height="300"> <img src="images/final_3.jpg" alt="box" height="300"> <img src="images/final_4.jpg" alt="box" height="300"> 
+
+### Final Reflection
+Overall, this project had a lot of ups and downs. For a project done over an extended period of virtual school by people in different class periods with different teachers, this went surprisingly smoothly, though that isn't to say that there were not challenges or that there were no unexpected changes/issues. This project was definitely made better by OnShape, though using Arduino Create on a chromebook, especially with the soundboard which we used, proved rather difficult (a difficulty surmounted when we were able to have lab access). The box itself turned out essentially according to plan, though we did have to take a little while to figure out how to rig the lights so that the wires were not twisted, a particular difficulty for which we were not prepared for or frankly even aware of before we started (our course of action to solve this problem was in fact to avoid it, by making it uneccesary for the lights to spin). Another issue we faced was with the handle, as our first one turned out with the tabs to keep it from coming out of the box being too tall and making it impossible to put the top onto the box. Our redesign took a little while, as we were unable to figure out a couple issues with it, made more difficult by lack of class time together. However, overall, the box turned out well, and the process went fairly smoothly. 
