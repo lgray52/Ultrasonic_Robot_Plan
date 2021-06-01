@@ -74,24 +74,29 @@ For the Onshape, we managed to create a handle, as well as add holes for the ard
 
 ## Final
 
-### Pictures
+### Jump To:
+* [OnShape](#OnShape)
+* [Wiring Diagram](#WiringDiagram)
+* [Code](#Code)
+* [Pictures](#Pictures)
+* [Final Reflection](#FinalReflection)
 
-#### OnShape Final
+### OnShape
 <img src="images/final_ultra_1.PNG" alt="Final OnShape model (first angle)" height="300"> <img src="images/final_ultra_2.PNG" alt="Final OnShape model (second angle)" height="300">
 
 ↓ fred ↓
 
 <img src="images/fred!.PNG" alt="a friendly boi :)" height="100">
 
-### Wiring diagram
+### WiringDiagram
 <img src="images/ultra_robot_wiring_final.png" alt="wiring diagram" height="300">
 
 
 ### Code
 [Final code link](https://create.arduino.cc/editor/lgray52/f984fcf0-1da7-4659-8f5d-0acd6cc6e52a/preview)
 
-### Final Pictures of Box
+### Pictures
 <img src="images/final_1.jpg" alt="box" height="300"> <img src="images/final_2.jpg" alt="box" height="300"> <img src="images/final_3.jpg" alt="box" height="300"> <img src="images/final_4.jpg" alt="box" height="300"> 
 
-### Final Reflection
+### FinalReflection
 Overall, this project had a lot of ups and downs. For a project done over an extended period of virtual school by people in different class periods with different teachers, this went surprisingly smoothly, though that isn't to say that there weren't any challenges or that there were no unexpected changes/issues. This project was definitely made better by OnShape, though using Arduino Create on a chromebook, especially with the soundboard which we used, proved rather difficult (a difficulty surmounted when we were able to have lab access). The box itself turned out essentially according to plan, though we did have to take a little while to figure out how to rig the lights so that the wires were not twisted, a particular difficulty for which we were not prepared for, or frankly even aware of, before we started (our course of action to solve this problem was in fact to avoid it, by making it uneccesary for the lights to spin). Another issue we faced was with the handle, as our first one turned out with the tabs to keep it from coming out of the box being too tall and making it impossible to put the top onto the box. Our redesign took a little while, as we were unable to figure out a couple issues with it, made more difficult by lack of class time together. However, despite these fairly minor difficulties, overall, the box turned out well, and the process went fairly smoothly. 
