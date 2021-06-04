@@ -61,10 +61,10 @@ Wiring
 * Wires (many)
 * Arduino Uno (x1)
 * LED (x1)
-* Ultrasonic sensor - Maxbotix Ultrasonic Rangefinder - LV-EZ1 - LV-EZ1 (x1)
+* Ultrasonic sensor - Maxbotix Ultrasonic Rangefinder - LV-EZ1 - LV-EZ1 (x1) [Link](https://www.adafruit.com/product/172)
 * Continuous rotation micro servo (x1)
 * Panelmount switches (x2)
-* Sound effects board - Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger - 2MB Flash
+* Sound effects board - Adafruit Audio FX Mini Sound Board - WAV/OGG Trigger - 2MB Flash [Link](https://www.adafruit.com/product/2133)
 
 ## Reflection
 
